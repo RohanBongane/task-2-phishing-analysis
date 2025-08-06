@@ -1,0 +1,19 @@
+From: Amazon Security <secure@amazon-verification.com>
+To: rohan.bongane@protonmail.com
+Subject: [Action Required] Unusual Login Attempt Detected
+
+Hello Rohan,
+
+We noticed a suspicious login attempt on your Amazon account from a new device:
+- Location: Mumbai, Maharashtra, India
+- Device: Windows PC
+- Time: Aug 6, 2025 7:32 PM IST
+
+If this was not you, please verify your identity immediately to secure your account.
+
+Verify Now: https://amaz0n-secure-helpdesk.com/verify
+
+Failure to act within 24 hours will result in a temporary hold on your account.
+
+Thanks,  
+Amazon Account Security Team

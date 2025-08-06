@@ -1,0 +1,13 @@
+Return-Path: <noreply@amaz0n-secure-helpdesk.com>
+Received: from mail.support-serve.net ([172.16.42.13])
+From: Amazon Security <secure@amazon-verification.com>
+To: rohan.bongane@protonmail.com
+Subject: [Action Required] Unusual Login Attempt Detected
+Date: Tue, 6 Aug 2025 19:32:45 +0530
+Message-ID: <89832@support-serve.net>
+
+# Header Analysis:
+- Return-Path is from a suspicious domain: amaz0n-secure-helpdesk.com
+- Received IP is internal (172.16.x.x) — possibly spoofed
+- No SPF/DKIM/DMARC authentication headers found
+- The Message-ID does not align with Amazon's domain structure
