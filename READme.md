@@ -1,7 +1,7 @@
 Task 2: Phishing Email Analysis
 
 Objective:
-Analyze a suspicious email to identify signs of phishing and improve awareness of how attackers trick users through social engineering.
+Analyze a suspicious email to identify signs of phishing and improve awareness of how attackers trick users through social engineering.ok
 
 Tools Used:
 - Free phishing email sample (inspired by a real-world Amazon phishing scam)
